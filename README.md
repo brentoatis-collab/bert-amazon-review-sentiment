@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Turning unstructured customer feedback into measurable decision signals with BERT.
+
 # BERT Sentiment Classification – Amazon Polarity
 
 ## Overview
